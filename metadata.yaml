@@ -1,0 +1,33 @@
+_repo: Flowers-from-a-Persian-Garden-and-Other-Papers_16949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clouston, W. A. (William Alexander)
+    alias: Clouston, William Alexander
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '4784'
+    url: http://www.gutenberg.org/2009/agents/4784
+    wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Clouston
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2005-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle Eastern literature -- History and criticism'
+- !lcc 'PJ'
+tableOfContents: Flowers from a Persian garden -- Oriental wit and humour -- Tales
+  of a parrot -- Rabbinical legends, tales, fables, and aphorisms -- An Arabian tale
+  of love -- Apocryphal life of Esop -- Ignorance of the clergy in the Middle Ages
+  -- The beards of our fathers.
+title: Flowers from a Persian Garden and Other Papers
+url: http://www.gutenberg.org/ebooks/16949
